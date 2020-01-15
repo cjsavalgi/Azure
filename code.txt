@@ -1,0 +1,7 @@
+<% 
+  'Define two variables with string values. 
+  strFirstName = "Jeff" 
+  strLastName = "Smith" 
+%> 
+
+<P>This Web page is customized for "<%= strFirstName %> <%= strLastName %>." </P>
